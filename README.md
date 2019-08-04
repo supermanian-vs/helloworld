@@ -1,2 +1,2 @@
 # helloworld
-Helloworld
+Helloworld - A classic project for beginners
